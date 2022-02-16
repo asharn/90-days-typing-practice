@@ -33,3 +33,8 @@ Profile details with all time statistic is available on [Ashish Karn - KeyBr](ht
 - My current progress is **21 wpm/hour**:
 
 ![Day 5 1st](images/day-05.png)
+
+## Day 6: February 16, 2022. #90DaysofTypingPractice
+- My current progress is **24 wpm/hour**:
+
+![Day 6 1st](images/day-06.png)
