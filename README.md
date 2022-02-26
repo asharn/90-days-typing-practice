@@ -96,4 +96,3 @@ Profile details with all time statistic is available on [Ashish Karn - KeyBr](ht
 
 ![Day 15 1st](images/day-15.png)
 
-
