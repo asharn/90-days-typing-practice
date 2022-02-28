@@ -96,3 +96,8 @@ Profile details with all time statistic is available on [Ashish Karn - KeyBr](ht
 
 ![Day 15 1st](images/day-15.png)
 
+
+## Day 16: February 28, 2022. #90DaysofTypingPractice
+- My current progress is with speed of **35.7 wpm/hour** and an accuracy of **98.37%**:
+
+![Day 16 1st](images/day-16.png)
