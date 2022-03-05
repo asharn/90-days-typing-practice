@@ -119,3 +119,10 @@ Profile details with all time statistic is available on [Ashish Karn - KeyBr](ht
 - My current progress is with speed of **40.38 wpm/hour** and an accuracy of **97.54%**:
 
 ![Day 19 1st](images/day-19.png)
+
+
+
+## Day 20: March 05, 2022. #90DaysofTypingPractice
+- My current progress is with speed of **34.45 wpm/hour** and an accuracy of **98.29%**:
+
+![Day 20 1st](images/day-20.png)
